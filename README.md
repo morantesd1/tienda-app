@@ -16,7 +16,7 @@ Aplicación web Full-Stack desarrollada con **Java Spring Boot**, **MySQL**, **H
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/TU_USUARIO/tienda-app.git](https://github.com/TU_USUARIO/tienda-app.git)
+   git clone [https://github.com/morantesd1/tienda-app.git](https://github.com/morantesd1/tienda-app.git)
    cd tienda-app
 
 2. **Configurar credenciales de base de datos:**
